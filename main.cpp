@@ -1,6 +1,6 @@
 #include "Point.h"
 #include "QuickSort.h"
-#include "Dheap.h"
+
 
 void getPointsCount(int& pointsCount) {
     std::cout << "Enter the number of points: ";
