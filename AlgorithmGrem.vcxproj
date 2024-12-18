@@ -127,17 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="grehem.cpp" />
+    <ClCompile Include="Graham.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Point.cpp" />
-    <ClCompile Include="QuickSort.cpp" />
-    <ClCompile Include="Stack.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="grehem.h" />
-    <ClInclude Include="Point.h" />
-    <ClInclude Include="QuickSort.h" />
-    <ClInclude Include="Stack.h" />
+    <ClInclude Include="Graham.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
